@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //MadLib();
+            MadLib();
 
             int added = Add(2, 2);
             Console.WriteLine(added);
